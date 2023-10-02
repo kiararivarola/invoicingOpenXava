@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/aopalliance-repackaged-2.6.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/byte-buddy-1.12.18.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/commons-beanutils-1.9.4.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/commons-fileupload-1.5.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/commons-net-3.9.0.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/commons-text-1.10.0.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/commons-validator-1.7.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/dom4j-2.1.3.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/dwr-2.0.11-RELEASE.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/ecj-3.21.0.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/ejb-api-3.0.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/fontbox-2.0.29.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/groovy-4.0.14.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/hibernate-commons-annotations-5.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/hibernate-core-5.6.15.Final.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/hibernate-envers-5.6.15.Final.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/hibernate-validator-6.0.23.Final.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/hk2-api-2.6.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/hk2-locator-2.6.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/hk2-utils-2.6.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/hsqldb-2.7.2-jdk8.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/htmlunit-3.3.0.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/htmlunit-core-js-3.3.0.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/htmlunit-cssparser-3.3.0.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/htmlunit-xpath-3.3.0.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/httpclient-4.5.14.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/httpcore-4.4.16.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/httpmime-4.5.14.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jackson-annotations-2.14.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jackson-core-2.14.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jackson-databind-2.14.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jackson-dataformat-xml-2.14.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jakarta.activation-1.2.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jakarta.annotation-api-1.3.5.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jakarta.inject-2.6.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jakarta.json.bind-api-1.0.2.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jakarta.json-1.1.6.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jakarta.json-1.1.6-module.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jakarta.json-api-1.1.6.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jakarta.mail-1.6.7.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jakarta.ws.rs-api-2.1.6.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jandex-2.4.2.Final.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jasperreports-6.20.5.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jasperreports-fonts-6.20.5.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/javassist-3.29.0-GA.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jaxb-impl-2.3.8.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jboss-logging-3.4.3.Final.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jersey-client-2.39.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jersey-common-2.39.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jersey-hk2-2.39.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jersey-media-json-binding-2.39.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jetty-client-9.4.51.v20230217.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jetty-http-9.4.51.v20230217.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jetty-io-9.4.51.v20230217.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jetty-util-9.4.51.v20230217.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jsoup-1.15.4.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/junit-3.8.2.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/log4j-api-2.20.0.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/log4j-core-2.20.0.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/lombok-1.18.28.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/neko-htmlunit-3.3.0.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/openpdf-1.3.30.jaspersoft.2.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/openxava-7.1.6.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/osgi-resource-locator-1.0.3.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/pdfbox-2.0.29.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/poi-5.1.0.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/poi-ooxml-5.1.0.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/poi-ooxml-lite-5.1.0.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/salvation2-3.0.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/stax2-api-4.2.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/tomcat-annotations-api-9.0.80.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/tomcat-dbcp-9.0.80.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/tomcat-embed-core-9.0.80.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/tomcat-embed-el-9.0.80.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/tomcat-embed-jasper-9.0.80.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/tomcat-juli-9.0.80.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/txw2-2.3.1.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/validation-api-2.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/websocket-api-9.4.51.v20230217.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/websocket-client-9.4.51.v20230217.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/websocket-common-9.4.51.v20230217.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/woodstox-core-6.4.0.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/xmlbeans-5.0.2.jar"/>
+	<classpathentry kind="lib" path="target/invoicing/WEB-INF/lib/yasson-1.0.11.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
